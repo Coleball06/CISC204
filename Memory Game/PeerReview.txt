@@ -1,0 +1,6 @@
+It was a simple game that worked well and was straightforward to play.  
+My first attempt, I took 14 turns to clear the level, but was able to improve to only 11 turns on my second attempt.  
+The cards reverted back to the cover more quickly than I expected when the second card of a non-pair was chosen, and 
+knowing this my second time around definitely helped me perform better.
+
+-Chris Metzler
